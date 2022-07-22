@@ -6,6 +6,15 @@ The tasks are diaplyed in the Task Queue in the same order as they are put into 
 <img src="https://github.com/404dn/Java-CPU-Schedular/blob/master/Pictures/selecting%20algorithm.png" width="500" height="550">
 
 
+<img src="https://github.com/404dn/Java-CPU-Schedular/blob/master/Pictures/ready%20qeue.png" width="500" height="550">
+
+
+
+
+<img src="https://github.com/404dn/Java-CPU-Schedular/blob/master/Pictures/excuting.png" width="500" height="550">
+
+
+
 
 
 
