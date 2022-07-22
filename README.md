@@ -4,7 +4,7 @@ The program can either read tasks from a file, Or the user can input tasks,
 The tasks are diaplyed in the Task Queue in the same order as they are put into the program, The program then sorts the tasks based on the algorithm and displays in the in the Ready Queue, After that the tasks Are excuted one by one according to the algorithm choose by the user, The amount of time that it takes for a task to be done is depending on the amount of bursts that is required by the task for it to be done.
 
 
-![](https://github.com/404dn/Java-CPU-Schedular/blob/master/Pictures/selecting%20algorithm.png =250x250)
+![](https://github.com/404dn/Java-CPU-Schedular/blob/master/Pictures/selecting%20algorithm.png | width=100)
 
 
 
