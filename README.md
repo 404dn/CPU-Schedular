@@ -51,7 +51,7 @@
 
 ## Featuers
 
-<h4>Algorithm Selection  </h4>
+<h2>Algorithm Selection  </h2>
 <p align="center">
 <img src="https://github.com/404dn/CPU-Schedular/blob/master/Pictures/selecting%20algorithm.png" alt="drawing" width="500"/>
 </p>
@@ -64,7 +64,7 @@
 ----
 
 
-<h4>Ready Queue</h4>
+<h2>Ready Queue</h2>
 <p align="center">
 <img src="https://github.com/404dn/CPU-Schedular/blob/master/Pictures/ready%20qeue.png" alt="drawing" width="500"/>
 </p>
@@ -75,7 +75,7 @@
 
 ----
 
-<h4>Excuting</h4>
+<h2>Excuting</h2>
 <p align="center">
 <img src="https://github.com/404dn/CPU-Schedular/blob/master/Pictures/excuting.png" alt="drawing" width="500"/>
 </p>
