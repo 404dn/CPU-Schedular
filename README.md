@@ -61,7 +61,7 @@
   Users can choose from a variety of CPU scheduling algorithms, including First-Come, First-Served (FCFS), Shortest Job Next (SJN), Round Robin, Priority Scheduling, and more. The tool supports customization to accommodate different scheduling policies.
 </h3>
 
-----
+
 
 
 <h2>Ready Queue</h2>
@@ -73,7 +73,7 @@
   Once tasks are entered, the program employs the selected scheduling algorithm to arrange them in the Ready Queue. This arrangement reflects the order in which processes will be given CPU time.
 </h4>
 
-----
+
 
 <h2>Excuting</h2>
 <p align="center">
