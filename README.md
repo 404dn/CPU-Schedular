@@ -1,17 +1,98 @@
-# Java-CPU-Schedular
-This Project was a way to visualize How different CPU scheduling algorithms work, CPU Scheduling is the process of selecting which process will have exclusive use of the CPU, This is to ensure that the CPU is used to its full potenial and not at idel at any time.
-The program can either read tasks from a file, Or the user can input tasks, 
-The tasks are diaplyed in the Task Queue in the same order as they are put into the program, The program then sorts the tasks based on the algorithm and displays in the in the Ready Queue, After that the tasks Are excuted one by one according to the algorithm choose by the user, The amount of time that it takes for a task to be done is depending on the amount of bursts that is required by the task for it to be done.
+## Project
 
-<img src="https://github.com/404dn/Java-CPU-Schedular/blob/master/Pictures/selecting%20algorithm.png" width="500" height="550">
+<br />
+
+<div align="center">
+  <h2 align="center">CPU-Schedular</h2>
+
+  <p align="center">
+    The CPU Scheduling Visualization Tool is a comprehensive educational and practical application that visually demonstrates various CPU scheduling algorithms.
+  </p>
+</div>
+
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Featuers</a></li>
+    </li>
+    <li><a href="#license">License</a></li>
+  </ol>
+</details>
+        
+## About The Project
 
 
-<img src="https://github.com/404dn/Java-CPU-Schedular/blob/master/Pictures/ready%20qeue.png" width="500" height="550">
+
+<h4>
+  <p>
+  This project serves as a visual representation of CPU scheduling algorithms, which are essential in efficiently managing the CPU's resources. CPU scheduling involves the selection of the next process to be granted exclusive access to the CPU, ensuring optimal CPU utilization without idle time. Here is a more professional description of the project:
+</h4>
+
+
+<p align="right">(<a href="#Project">back to top</a>)</p>
+
+
+## Built With
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+</p>
 
 
 
 
-<img src="https://github.com/404dn/Java-CPU-Schedular/blob/master/Pictures/excuting.png" width="500" height="550">
+
+
+## Featuers
+
+<h4>Algorithm Selection  </h4>
+<p align="center">
+<img src="https://github.com/404dn/CPU-Schedular/blob/master/Pictures/selecting%20algorithm.png" alt="drawing" width="700"/>
+</p>
+
+<h4>
+  <p>
+  Users can choose from a variety of CPU scheduling algorithms, including First-Come, First-Served (FCFS), Shortest Job Next (SJN), Round Robin, Priority Scheduling, and more. The tool supports customization to accommodate different scheduling policies.
+</h4>
+
+https://github.com/404dn/CPU-Schedular/blob/master/Pictures/excuting.png
+----
+
+
+<h4>Ready Queue</h4>
+<p align="center">
+<img src="https://github.com/404dn/CPU-Schedular/blob/master/Pictures/ready%20qeue.png" alt="drawing" width="700"/>
+</p>
+<h4>
+  <p>
+  Once tasks are entered, the program employs the selected scheduling algorithm to arrange them in the Ready Queue. This arrangement reflects the order in which processes will be given CPU time.
+</h4>
+
+----
+
+<h4>Excuting</h4>
+<p align="center">
+<img src="https://github.com/404dn/CPU-Schedular/blob/master/Pictures/excuting.png" alt="drawing" width="700"/>
+</p>
+
+<h4>
+  <p>
+  The program simulates the execution of tasks one by one, following the chosen scheduling algorithm. The execution time for each task depends on the number of bursts required for its completion, providing an accurate representation of real-world scenarios.
+</h4>
+
+
+<p align="right">(<a href="#Project">back to top</a>)</p>
+
+
+
+
+
 
 
 
