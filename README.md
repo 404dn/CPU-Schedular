@@ -29,7 +29,7 @@
 
 <h4>
   <p>
-  This project serves as a visual representation of CPU scheduling algorithms, which are essential in efficiently managing the CPU's resources. CPU scheduling involves the selection of the next process to be granted exclusive access to the CPU, ensuring optimal CPU utilization without idle time. Here is a more professional description of the project:
+  This project serves as a visual representation of CPU scheduling algorithms, which are essential in efficiently managing the CPU's resources. CPU scheduling involves the selection of the next process to be granted exclusive access to the CPU, ensuring optimal CPU utilization without idle time
 </h4>
 
 
