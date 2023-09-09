@@ -53,21 +53,20 @@
 
 <h4>Algorithm Selection  </h4>
 <p align="center">
-<img src="https://github.com/404dn/CPU-Schedular/blob/master/Pictures/selecting%20algorithm.png" alt="drawing" width="700"/>
+<img src="https://github.com/404dn/CPU-Schedular/blob/master/Pictures/selecting%20algorithm.png" alt="drawing" width="500"/>
 </p>
 
-<h4>
+<h3>
   <p>
   Users can choose from a variety of CPU scheduling algorithms, including First-Come, First-Served (FCFS), Shortest Job Next (SJN), Round Robin, Priority Scheduling, and more. The tool supports customization to accommodate different scheduling policies.
-</h4>
+</h3>
 
-https://github.com/404dn/CPU-Schedular/blob/master/Pictures/excuting.png
 ----
 
 
 <h4>Ready Queue</h4>
 <p align="center">
-<img src="https://github.com/404dn/CPU-Schedular/blob/master/Pictures/ready%20qeue.png" alt="drawing" width="700"/>
+<img src="https://github.com/404dn/CPU-Schedular/blob/master/Pictures/ready%20qeue.png" alt="drawing" width="500"/>
 </p>
 <h4>
   <p>
@@ -78,7 +77,7 @@ https://github.com/404dn/CPU-Schedular/blob/master/Pictures/excuting.png
 
 <h4>Excuting</h4>
 <p align="center">
-<img src="https://github.com/404dn/CPU-Schedular/blob/master/Pictures/excuting.png" alt="drawing" width="700"/>
+<img src="https://github.com/404dn/CPU-Schedular/blob/master/Pictures/excuting.png" alt="drawing" width="500"/>
 </p>
 
 <h4>
